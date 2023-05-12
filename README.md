@@ -11,4 +11,5 @@ ___
 * Browser: Firefox 
 * Editor: VsCode
 * Audio Visualizer: cava
+* btop theme: flat-remix-light (15/28)
 ___
